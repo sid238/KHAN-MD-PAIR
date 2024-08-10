@@ -1,6 +1,6 @@
 {
     "description": "qr",
-    "main": "index.js",
+    "main": "Maher-Zubair.js",
     "scripts": {
     "start": "node Maher-Zubair.js"
   },
