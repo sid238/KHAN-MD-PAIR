@@ -1,6 +1,6 @@
 {
     "description": "qr",
-    "main": "./Maher-Zubair.js",
+    "main": "./index.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
